@@ -10,12 +10,15 @@
     <img src="https://img.shields.io/badge/stackoverflow-white?logo=stackoverflow&logoColor=orange&style=for-the-badge" alt="Stackoverflow Badge"/>
   </a>
   <a href="https://twitter.com/FredaFVictor">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/><br />
   </a>
+   <img src="https://komarev.com/ghpvc/?username=Freddie20&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 
+---
 
+### About Me :
 
 - 👋 Hi, I’m Freda Victor
 - 👀 I’m interested in Data Science, Machine Learning and IoT
