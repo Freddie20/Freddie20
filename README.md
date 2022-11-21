@@ -59,6 +59,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freddie20&layout=compact&theme=vision-friendly-dark)](https://github.com/Freddie20/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freddie20)](https://github.com/Freddie20/github-readme-stats)
 
 
 <!---
