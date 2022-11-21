@@ -57,9 +57,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Freddie20&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freddie20&layout=compact&theme=vision-friendly-dark)](https://github.com/Freddie20/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freddie20)](https://github.com/Freddie20/github-readme-stats)
 
 
 <!---
