@@ -21,9 +21,9 @@
 ### About Me :
 
 - 👋 Hi, I’m Freda Victor
-- 👀 I’m interested in Spatial Analysis, Data Science and Machine Learning.
-- 🌱 I’m currently improving my skills in Data Science, Machine Learning, Spatial modelling and Cloud Computing.
-- 💞️ I’m looking to collaborate on data science and development projects
+- 👀 I’m interested in Spatial Analysis, Data Science.
+- 🌱 I’m currently improving my skills in Data Science, Cloud Engineering and Computing.
+- 💞️ I’m looking to collaborate on data science, cloud and development projects
 - 📫 How to reach me victorfredafunmilayo@gmail.com
 
 ---
